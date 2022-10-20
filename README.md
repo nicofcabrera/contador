@@ -6,4 +6,4 @@ Este _"Contador"_ va sumando o restando el numero principal de 1 en 1. Todo esto
 
 De esta manera voy reforzando lo que voy aprendiendo de eventos con **Javascript**.
 
-Link del deploy: **_Proximamente_**
+Link del deploy: [Contador](https://guileless-queijadas-2440b1.netlify.app/)
